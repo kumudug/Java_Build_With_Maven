@@ -16,3 +16,7 @@ mvn install
 
 The install goal will compile, test, and package your project’s code and then copy it into the local dependency repository,
 ready for another project to reference it as a dependency.
+
+
+mvn test
+
